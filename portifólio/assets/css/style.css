@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 /** Reset CSS Básico */
 *{
     margin: 0;
@@ -26,6 +28,9 @@ body {
 
 .container__content__title {
     font-size: 2rem;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
 }
 
 .title-emphasis {
