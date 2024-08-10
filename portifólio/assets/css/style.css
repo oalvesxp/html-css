@@ -20,6 +20,14 @@ body {
     margin: 10%;
 }
 
+.container__content {
+    width: 615px;
+}
+
+.container__content__title {
+    font-size: 2rem;
+}
+
 .title-emphasis {
     color: #3BB6FF;
 }
