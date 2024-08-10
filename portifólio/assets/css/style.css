@@ -24,15 +24,20 @@ body {
 
 .container__content {
     width: 615px;
+    font-family: "PT Sans", sans-serif;
 }
 
 .container__content__title {
     font-size: 2rem;
-    font-family: "PT Sans", sans-serif;
     font-weight: 700;
     font-style: normal;
 }
 
 .title-emphasis {
     color: #3BB6FF;
+}
+
+.container__links {
+    display: flex;
+    justify-content: space-between;
 }
