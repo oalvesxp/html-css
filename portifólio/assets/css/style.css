@@ -12,6 +12,12 @@ body {
     color: #EFF0F1;
 }
 
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
 .title-emphasis {
     color: #3BB6FF;
 }
