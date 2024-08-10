@@ -8,7 +8,6 @@
 
 body {
     height: 100vh;
-    width: 100vw;
     box-sizing: border-box;
     background-color: #05050c;
     color: #EFF0F1;
@@ -40,4 +39,18 @@ body {
 .container__links {
     display: flex;
     justify-content: space-between;
+    
+}
+
+.container__links__item {
+    background-color: #3BB6FF;
+    width: 280px;
+    border-radius: 16px;
+    text-align: center;
+    font-size: 1.25rem;
+    font-weight: 700;
+    font-style: normal;
+    color: #05050c;
+    padding: 20px 0;
+    text-decoration: none;
 }
